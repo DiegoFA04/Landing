@@ -1,2 +1,2 @@
 # LandingPage-IHCyTecnologiasMoviles
-Landing Page realizado para el proyecto de IHC llamado HabiPlay
+Landing Page y Acceptance Criteria realizado para el proyecto de IHC llamado HabiPlay
