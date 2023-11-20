@@ -203,6 +203,42 @@ h3 {
   color: #fff;
 }
 
+/* SECCION Logros */
+
+.logros {
+  padding: 3rem 0;
+  background: #0f172a;
+}
+
+.sublogros {
+  text-align: center;
+  padding-bottom: 2rem;
+  color: #fff;
+}
+.containerL {
+  width: 90%;
+  background: #0f172a;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+}
+
+.boxL {
+  padding: 2rem 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #292f3a83;
+  box-shadow: 0px 0px 55px 5px rgba(0, 0, 0, 0.06);
+}
+
+.containerL img {
+  width: 242px;
+  height: 501px;
+}
+
 /* SECCION CONTACTO*/
 .contacto {
   margin: auto;
